@@ -172,6 +172,7 @@ statsmodels==0.10.1
 stevedore==3.3.0
 stopit==1.1.2
 sympy==1.4
+setuptools==0.7.3
 tables==3.5.2
 tblib==1.4.0
 terminado==0.8.2
